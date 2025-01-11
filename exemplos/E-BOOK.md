@@ -4,7 +4,7 @@
 Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://copilot.microsoft.com/)** para roteirização e criação de imagens;
+- IA Generativa **[Copilot](https://copilot.microsoft.com/)** para roteirização e criação de imagens;
 - Ferramenta **Microsoft Word** para edição.
 
 ## 🧐 Processo de Criação
